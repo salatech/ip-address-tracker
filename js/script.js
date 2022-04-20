@@ -40,7 +40,7 @@ let displayMap=(lat, long)=>{
 
 let getIpDetails=(ip)=>{
 
-    let key = 'at_yD616QsY5LwKtmSTbfr3fiwpFDfDI';
+    let key = 'at_jJh00gaDKC7je901U3E1gClwLHGui';
 
     fetch(`
     https://geo.ipify.org/api/v2/country,city,vpn?apiKey=${key}&ipAddress=${ip}`)
