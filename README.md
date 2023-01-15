@@ -8,7 +8,7 @@ This is the code for my IP address tracking app, which allows users to easily fi
 - JavaScript
 - [jQuery](https://jquery.com/)
 - [Bootstrap](https://getbootstrap.com/)
-- Rapid API
+- Ipify API
 
 ## Features
 - Simple and user-friendly interface
@@ -23,10 +23,10 @@ git clone https://github.com/salatech/ip-address-tracker.git
 2. Open the `index.html` file in your browser to view the app.
 
 ## Deployment
-This app is hosted on [GitHub Pages](https://pages.github.com/).
+Check the live deployment here[https://salatech.github.io/ip-address-tracker/]
 
 ## Note
-This app uses the RapidAPI to retrieve network information.
+This app uses the Ipify API to retrieve network information.
 
 ## Author
 salatech
